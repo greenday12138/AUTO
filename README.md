@@ -1,10 +1,10 @@
-# AUTO : A Hierarchical Decision-making Framework with Multi-modality Perception for Autonomous Driving
+# Parameterized Decision-making with Multi-modality Perception for Autonomous Driving
 
 ![image](/figures/framework.png)
 
 This repo is the implementation of the following paper:
 
-**AUTO : A Hierarchical Decision-making Framework with Multi-modality Perception for Autonomous Driving**
+**Parameterized Decision-making with Multi-modality Perception for Autonomous Driving**
 
 <br> 
 
